@@ -11,7 +11,7 @@ _This is a list of ideas, intuitions and maybe best practices that become useful
 ## Architecture
 ### Choice of activation functions
 
-| Layer | Activation Function |
+| **Layer** | **Activation Function** |
 |---|---|
 | Dense | ReLU |
 | Dense -- final layer for multiclass | softmax |
