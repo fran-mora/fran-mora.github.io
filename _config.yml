@@ -85,5 +85,5 @@ exclude:
   - README.md
   - CNAME
 
-theme: pRoJEct-NeGYa
+theme: jekyll-theme-architect
 #jekyll-theme-cayman
